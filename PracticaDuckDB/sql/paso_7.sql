@@ -1,1 +1,0 @@
-COPY diamantes TO 'C:/Users/AlumnoM_AI/Documents/PracticaDuckDB/diamantes_optimizados.parquet' (FORMAT PARQUET);
