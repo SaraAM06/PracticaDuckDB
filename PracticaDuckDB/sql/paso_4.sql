@@ -1,0 +1,3 @@
+DESCRIBE diamantes;
+
+SELECT COUNT(*) AS total_diamantes FROM diamantes;
